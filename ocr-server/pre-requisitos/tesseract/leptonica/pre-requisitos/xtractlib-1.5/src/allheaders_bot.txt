@@ -1,0 +1,4 @@
+#endif  /* NO_PROTOS */
+
+
+#endif /* XTRACT_ALLHEADERS_H */

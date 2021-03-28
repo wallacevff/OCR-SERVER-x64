@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# This bundles the xtract source and associated utilities into xtractlib.tar
+
+rm -f xtractlib.tar.gz
+
+tar cvf xtractlib.tar src prog README maketar
+gzip xtractlib.tar
+
